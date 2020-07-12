@@ -5,7 +5,7 @@ A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 * Documentation [developer.apple.com/documentation/swiftui](https://developer.apple.com/documentation/swiftui)
 * WWDC 2019 [developer.apple.com/wwdc19/](https://developer.apple.com/wwdc19/)
 
-# GitHub Tutotials
+## GitHub Tutotials
 *  https://github.com/chinsyo/awesome-swiftui 
 *  https://github.com/Juanpe/About-SwiftUI 
 *  https://github.com/ivanvorobei/SwiftUI 
