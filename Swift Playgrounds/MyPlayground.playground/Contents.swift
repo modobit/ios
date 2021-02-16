@@ -22,3 +22,30 @@ let number: Int = 10
 var variableNumber: Int = 42
 
 
+
+//---
+func countFunc(in str: String)
+{
+    print("The string \(str) and has \(str.count) ")
+}
+
+countFunc(in: "Hello World")
+
+//---
+func albumName(name: String) -> Bool{
+    
+    if name == "Adam" {return true}
+    if name == "Bob" {return false}
+    return false
+    
+}
+
+if albumName(name: "bob")
+{
+    print("yes")
+}
+else
+{
+    print("no")
+}
+
