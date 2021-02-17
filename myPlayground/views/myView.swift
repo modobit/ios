@@ -10,10 +10,14 @@ import SwiftUI
 struct myView: View {
     
     @State private var bgImage = 0.5
+    @State private var progress = 0.1
+
+
     
     var body: some View {
         
         VStack{
+            
             Spacer()
             Image("w-logo")
                 .resizable()
@@ -25,9 +29,14 @@ struct myView: View {
                 .font(.title2)
                 .fontWeight(.bold)
                 .padding()
+
+            Spacer()
+            
+
             Spacer()
             Text("Version 1.0")
                 .font(.caption)
+            
        
         }.background(
             Image("dark-bk-1")
@@ -46,3 +55,4 @@ struct myView_Previews: PreviewProvider {
             //.preferredColorScheme(.light)
     }
 }
+
