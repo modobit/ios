@@ -40,10 +40,12 @@ struct ArticleListRow: View {
                 .font(.title3)
                 .fixedSize(horizontal: false, vertical: true)
                 .lineLimit(3)
-                .padding(.vertical, 2)
+                .padding(.vertical, 1)
 
             Text(dateFormatter.string(from: article.date))
                 .font(.subheadline)
+                .foregroundColor(.gray)
+            Divider()
         }
         .padding(.bottom, 4)
         .padding(.vertical, 4)

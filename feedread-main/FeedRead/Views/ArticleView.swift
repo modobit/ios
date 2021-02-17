@@ -12,8 +12,9 @@ struct ArticleView: View {
         } else {
             VStack {
                 Text(article.title)
-                    .font(.title)
-                    .multilineTextAlignment(.center)
+                    .font(.largeTitle)
+                    .bold()
+                    .multilineTextAlignment(.leading)
                     .padding(.top)
 
                 WebView(html: article.content)

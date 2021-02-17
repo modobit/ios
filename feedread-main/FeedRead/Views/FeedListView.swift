@@ -83,7 +83,7 @@ struct FeedListRow: View {
                     .lineLimit(2)
             }
             Text("\(trimArticlesCount()) articles")
-                .font(.subheadline)
+                .font(.body)
                 .bold()
         }
         .padding(.bottom, 4)
