@@ -1,4 +1,4 @@
-# iOS
+# iOS - Personal Playground
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 
 * SwiftUI [developer.apple.com/xcode/swiftui/](https://developer.apple.com/xcode/swiftui/)
