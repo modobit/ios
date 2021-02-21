@@ -3,7 +3,7 @@
 # iOS - Personal Playground
 A curated list of awesome SwiftUI tutorials, libraries, sessions and articles.
 
-# SwiftUI Snippets
+## SwiftUI Snippets
 * SwiftUI [https://github.com/varabeis/SwiftUI](https://github.com/varabeis/SwiftUI) Various codes examples 
 
 
