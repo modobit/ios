@@ -1,6 +1,6 @@
 
 # SwiftUI Roadmap 
-![Swift Roadmap](SwiftroadMap.png {width=40px height=400px})
+![Swift Roadmap](SwiftroadMap.png)
 
 
 # iOS - Personal Playground
